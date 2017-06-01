@@ -17,7 +17,7 @@ import kotlinx.android.synthetic.main.activity_main.*
 class MainActivity : AppCompatActivity() {
 
     companion object {
-        val GITHUB_URL = "https://github.com/wuapnjie/PoiShuhui-Kotlin"
+        val GITHUB_URL = "https://github.com/zdxdz/zdshuhui"
     }
 
     val titleResList: ArrayList<Int> = arrayListOf(R.string.tab_one, R.string.tab_two, R.string.tab_three)
